@@ -19,8 +19,10 @@ List what software your code depends on, as well as version numbers, like so:.
 ## Files
 
 #### Code/
-1.Latex_Presentation_LD.tex: The LaTeX code for my lightning presentation. (This has created a number of related files: .aux, .log, .nav, .out, .snm, .gz, .toc, .vrb. //
-2. lateximage.png: The image that I use in my presentation to show what some 'complete' LaTeX code looks like. //
+1.Latex_Presentation_LD.tex: The LaTeX code for my lightning presentation. (This has created a number of related files: .aux, .log, .nav, .out, .snm, .gz, .toc, .vrb. 
+
+2. lateximage.png: The image that I use in my presentation to show what some 'complete' LaTeX code looks like. 
+
 3. LaTeX_Project_LD.Rmd: The R markdown code for the PDF document that I created to teach people about LaTeX. 
 
 #### Teaching_Materials/
