@@ -1,0 +1,21 @@
+\frametitle{Creating a document}
+\begin{itemize}	
+	\setlength\itemsep{1em}
+	\item You can customize your LaTeX doc by using packages:
+	 	\begin{itemize}	
+	 	\item These are put in the preamble.
+		\item The command is:
+		\begin{semiverbatim}
+		 \\usepackage{name}
+		 \end{semiverbatim}
+		 \end{itemize}
+	\item You can create a title by filling in the title in the preamble, like this:
+	\begin{semiverbatim}
+	 \\title{ My Title Here}
+	  \end{semiverbatim}
+	  \item To print the title in the document, use the maketitle command within the document (after 'begin'):
+	  \begin{semiverbatim}
+	   \\maketitle
+	    \end{semiverbatim}
+	\item To create an output, press the 'Typeset' button in the corner (like 'knit' in R).
+\end{itemize}
